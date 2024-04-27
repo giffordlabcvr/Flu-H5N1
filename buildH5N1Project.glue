@@ -1,0 +1,58 @@
+project flu
+
+  # Import reference sequences 
+  import source sources/iav-andersen-h5n1
+
+  #  Load linked isolate-level data for reference sequences
+  run script glue/fluLoadIsolateDataH5N1.js
+
+  reference REF_S1_IAV_H5N1_MG668928
+    add feature-location S1_whole_genome
+    add feature-location PB2
+    feature-location S1_whole_genome add segment 1 2280
+    feature-location PB2 add segment 1 2280
+    exit
+
+  reference REF_S2_IAV_H5N1_MG668929
+    add feature-location S2_whole_genome
+    add feature-location PB1
+    feature-location S2_whole_genome add segment 1 2274
+    feature-location PB1 add segment 1 2274
+    exit
+
+  reference REF_S4_IAV_H5N1_MG668931
+    add feature-location S4_whole_genome
+    add feature-location HA
+    feature-location S4_whole_genome add segment 1 1707
+    feature-location HA add segment 1 1707
+    exit
+
+  reference REF_S6_IAV_H5N1_MG668933
+    add feature-location S6_whole_genome
+    add feature-location NA
+    feature-location S6_whole_genome add segment 1 1350
+    feature-location NA add segment 1 1350
+    exit
+
+  create alignment AL_IAV_SEG1_H5N1 -r REF_S1_IAV_H5N1_MG668928
+  alignment AL_IAV_SEG1_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_PB2%'"
+  alignment AL_IAV_SEG1_H5N1 add member -w "name = 'IAV' and gb_segment = '1'"
+  compute alignment AL_IAV_SEG1_H5N1 iavCompoundAlignerS1
+
+  create alignment AL_IAV_SEG2_H5N1 -r REF_S2_IAV_H5N1_MG668929
+  alignment AL_IAV_SEG2_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_PB1%'"
+  alignment AL_IAV_SEG2_H5N1 add member -w "name = 'IAV' and gb_segment = '2'"
+  compute alignment AL_IAV_SEG2_H5N1 iavCompoundAlignerS2
+
+  create alignment AL_IAV_SEG4_H5N1 -r REF_S4_IAV_H5N1_MG668931
+  alignment AL_IAV_SEG4_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_HA%'"
+  alignment AL_IAV_SEG4_H5N1 add member -w "name = 'IAV' and gb_segment = '4'"
+  compute alignment AL_IAV_SEG4_H5N1 iavCompoundAlignerS4
+
+  create alignment AL_IAV_SEG6_H5N1 -r REF_S6_IAV_H5N1_MG668933
+  alignment AL_IAV_SEG6_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_NA%'"
+  alignment AL_IAV_SEG6_H5N1 add member -w "name = 'IAV' and gb_segment = '6'"
+  compute alignment AL_IAV_SEG6_H5N1 iavCompoundAlignerS6
+  
+
+exit

@@ -1,0 +1,318 @@
+taxon	sequenceID	pubmed_id	length	iso_region	iso_country	iso_year	iso_host	iso_source	cg_subtype	hn_subtype	strain
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/AB284320	AB284320	15331693	1765	-	-	-	-	-	-	-	A/Aichi/2/1968
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/AF285883	AF285883	10982381	1695	-	-	-	-	-	-	-	A/Swine/Ontario/01911-2/99 (H4N6)
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/AY338459	AY338459	14745020	1737	-	-	-	-	-	-	-	A/Netherlands/219/2003
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY005988	CY005988	16439620	1742	Delaware	USA	1988	Aves	-	B8|E1|A10|H9|A11|N6|A|A	H9N6	A/ruddy turnstone/DE/510/1988
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY006008	CY006008	16439620	1737	Delaware	USA	2000	Aves	-	B9|E1|A3|H12|A11|N5|B|A	H12N5	A/ruddy turnstone/DE/97/2000
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY006009	CY006009	16439620	1762	-	-	-	-	-	-	-	A/duck/AUS/341/1983
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY014604	CY014604	16439620	1748	-	-	-	-	-	-	-	A/mallard duck/Astrakhan/263/1982
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY014630	CY014630	16439620	1739	-	-	-	-	-	-	-	A/red-necked stint/Australia/4189/1980
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY014659	CY014659	16439620	1744	-	-	-	-	-	-	-	A/turkey/Ontario/6118/1968
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY014679	CY014679	16439620	1760	England	United Kingdom	1956	Anseriformes sp.	-	A3|E1|A7|H11|A8|N6|A|A	H11N6	A/duck/England/1956
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY014694	CY014694	16439620	1768	-	-	-	-	-	-	-	A/gull/Maryland/704/1977
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY015115	CY015115	16439620	1773	-	-	-	-	-	-	-	A/chicken/Italy/312/1997
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY031336	CY031336	-	1775	-	-	-	-	-	-	-	A/New Caledonia/20/1999(H1N1)
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY067678	CY067678	22427902	1731	Santa Rosa	Guatemala	2008	Anas discors	cloacal swab	B9|E1|A3|H7|A11|N9|B|A	H7N9	A/blue-winged teal/Guatemala/CIP049-02/2008
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY075054	CY075054	-	1742	Guangxi	China	2007	Sus scrofa	Nasal Swab	A3|D1|A11|H9|A8|N2|A|A	H9N2	A/swine/Guangxi/10/2007
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY079171	CY079171	-	1731	Minto Flats, Interior Alaska	USA	2008	Anas acuta	-	B4|E1|A11|H3|A11|N8|B|B	H3N8	A/northern pintail/Interior Alaska/8BM3731/2008
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY096648	CY096648	22427902	1744	Santa Rosa	Guatemala	2010	Anas discors	Cloacal swab	B9|E1|A3|H8|A11|N4|B|A	H8N4	A/blue-winged teal/Guatemala/CIP049-04/2010
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY103892	CY103892	22371588	1784	-	-	-	-	-	-	-	A/little yellow-shouldered bat/Guatemala/060/2010
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY125945	CY125945	24130481	1771	-	-	-	-	-	-	-	A/flat-faced bat/Peru/033/2010
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY148243	CY148243	-	1724	-	-	-	-	-	-	-	A/Puerto Rico/8/1934
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/CY241063	CY241063	-	1703	Cape May Co., NJ	USA	2016	Environment	-	B10|E1|A3|H10|A5|N2|B|B	H10N2	A/environment/New Jersey/UGAI16-1117/2016
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/DQ376624	DQ376624	17274295	1747	NULL	Taiwan	1999	Gallus gallus	-	A3|D1|A12|H6|A8|N1|A|A	H6N1	A/chicken/Taiwan/0705/99
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/EU030984	EU030984	17997603	1731	NULL	USA	2006	Leucophaeus atricilla	allantoic fluid harvested from an infected egg	B10|E1|A3|H7|A11|N3|B|A	H7N3	A/laughing gull/Delaware/42/06
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/HM006759	HM006759	-	1779	-	-	-	-	-	-	-	A/Viet Nam/1203/2004
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/KR732539	KR732539	-	1779	-	-	-	-	-	-	-	A/chicken/Egypt/07118-NLQP/2007
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/KU322313	KU322313	28791803	1738	NULL	Italy	2012	Homo sapiens	-	B2|C1|A1|H3|A2|N2|B2|A	H3N2	A/Parma/58/2012
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/KX978114	KX978114	-	1732	NULL	Netherlands	2009	Anas platyrhynchos	-	A5|D1|A12|H7|A8|N7|A|A	H7N7	A/mallard duck/Netherlands/2/2009
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/KX978155	KX978155	-	1766	NULL	Netherlands	2010	Chroicocephalus ridibundus	-	A2|E1|A6|-|A7|N8|A|A	HXN8	A/black-headed gull/Netherlands/10/2010
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/KX978192	KX978192	-	1728	NULL	Netherlands	2007	Anas platyrhynchos	-	A3|D1|A12|H10|A8|N7|A|B	H10N7	A/mallard duck/Netherlands/1/2007
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/KY415628	KY415628	-	1730	NULL	China	2016	Columba livia	pigeon fecal	A5|D1|A12|H2|A8|N8|A|A	H2N8	A/Pigeon/Longquan/LQ67/2016
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/KY635574	KY635574	-	1635	NULL	Bangladesh	2015	Anas sp.	-	A5|D1|A12|H7|A8|N1|A|A	H7N1	A/duck/Bangladesh/24692/2015
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/KY644183	KY644183	-	1689	NULL	Chile	2016	Haematopus ater	-	B1|E1|A2|H2|A4|N2|B|A	H2N2	A/blackish oystercatcher/Chile/C6534/2016
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/KY990741	KY990741	-	1737	NULL	USA	2016	Anas platyrhynchos	-	B10|E1|A3|H12|A11|N5|B|A	H12N5	A/mallard duck/California/UCD470/2016
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/L20410	L20410	7975212	1773	-	-	-	-	-	-	-	A/Singapore/1/1957
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/LC029898	LC029898	-	1704	Hokkaido	Japan	2014	Anseriformes sp.	-	A3|D1|A12|H8|A8|N2|A|A	H8N2	A/duck/Hokkaido/207/2014
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/LC042003	LC042003	-	1689	Alaska	USA	1994	Anseriformes sp.	-	B8|E1|A7|H2|A11|N3|B|A	H2N3	A/duck/Alaska/5111/1994
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/LC371842	LC371842	-	1758	Hokkaido	Japan	2001	Anseriformes sp.	-	A5|D1|A11|H2|A8|N2|A|B	H2N2	A/duck/Hokkaido/95/2001
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MF146268	MF146268	-	1758	-	-	-	-	-	-	-	A/black-headed gull/Netherlands/23/2009
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MF146364	MF146364	-	1765	NULL	Netherlands	2008	Chroicocephalus ridibundus	-	A2|E1|A6|-|A7|N8|A|A	HXN8	A/black-headed gull/Netherlands/2/2008
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MF147944	MF147944	-	1765	NULL	Netherlands	2012	Chroicocephalus ridibundus	-	A2|E1|A12|-|A7|N6|A|A	HXN6	A/black-headed gull/Netherlands/57/2012
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MF959966	MF959966	-	1765	NULL	Netherlands	2001	Anas platyrhynchos	-	A4|D1|A12|H3|A8|N6|A|A	H3N6	A/mallard duck/Netherlands/3/2001
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MF978414	MF978414	-	1709	NULL	USA	2016	Felidae sp.	-	B3|E1|A8|H7|A11|N2|B|B	H7N2	A/feline/New York/WVDL-16/2016
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MG668931	MG668931	-	1707	-	-	-	-	-	-	-	A/Thailand/NBL1/2006
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MH134842	MH134842	-	1737	NULL	Chile	2016	Anas georgica	-	B1|E1|A2|H12|A4|N5|B|B	H12N5	A/yellow-billed pintail/Chile/C14831/2016
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MH502282	MH502282	-	1703	New Jersey	USA	2013	Arenaria interpres	feces	B10|E1|A7|H10|A11|N2|B|A	H10N2	A/ruddy turnstone/New Jersey/AI13-2544/2013
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MH569263	MH569263	-	1701	Alaska	USA	2015	Anser canagicus	Environmental (feces)	B9|E1|A3|H3|A11|N7|B|A	H3N7	A/emperor goose/Alaska/UGAI15-8445/2015
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MH578773	MH578773	-	1683	NULL	USA	2003	Arenaria interpres	-	B5|E1|A10|H9|A11|N1|A|A	H9N1	A/ruddy turnstone/Delaware Bay/95/2003
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MH579159	MH579159	-	1695	NULL	USA	2007	Arenaria interpres	-	B9|E1|A10|H12|A11|N1|B|A	H12N1	A/ruddy turnstone/Delaware Bay/554/2007
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MH596891	MH596891	-	1735	Delaware	USA	2002	Arenaria interpres	feces;SPF ECE	B5|E1|A3|H7|A11|N3|B|A	H7N3	A/ruddy turnstone/Delaware/650622/2002
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MH598157	MH598157	-	1712	New Jersey	USA	2000	Arenaria interpres	feces;SPF ECE	B9|E1|A3|H12|A11|N5|B|A	H12N5	A/ruddy turnstone/New Jersey/AI00-1091/2000
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MH613320	MH613320	-	1698	NULL	USA	2005	Arenaria interpres	-	B9|E1|A7|H11|A11|N8|B|B	H11N8	A/ruddy turnstone/Delaware Bay/446/2005
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MK077424	MK077424	-	1737	New York	USA	2018	Homo sapiens	-	B2|C1|A1|H3|A2|N2|B2|A	H3N2	A/New York/40/2018
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MK159405	MK159405	-	1777	-	-	-	-	-	-	-	A/California/04/2009
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MN055195	MN055195	-	1757	NULL	Chile	2018	Pygoscelis antarcticus	feces	B9|A1|A2|H11|A11|N2|B|A	H11N2	A/chinstrap penguin/Antarctica/HP04/2018
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MN988214	MN988214	-	1689	Minnesota	USA	2018	Anas platyrhynchos	oropharyngeal/cloacal swab pool from individual bird	B10|E1|A3|H2|A11|N3|B|A	H2N3	A/mallard/Minnesota/MN18-WB1-025A/2018
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW109584	MW109584	-	1701	Jiangxi	China	2017	Environment	swab	A4|D1|A5|H6|A8|N6|A|A	H6N6	A/environment/Jiangxi/2.16_SRGFYK103-E/2017
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW244325	MW244325	35062251	1701	-	-	-	-	-	-	-	A/swine/Italy/58247/2020
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW333286	MW333286	33932612	1776	Kaohsiung	Taiwan	2016	Gallus gallus	brain	A5|D1|A12|H5|A8|N8|A|A	H5N8	A/chicken/Kaohsiung/16040021-1/2016
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW342700	MW342700	-	1704	Kagoshima	Japan	2020	Mareca falcata	feces	A5|D1|A12|H5|A8|N8|A|A	H5N8	A/falcated duck/Kagoshima/KU-d3/2020
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW547678	MW547678	-	1686	Gunsan	South Korea	2006	Aves	Geumgang	A5|D1|A12|H10|A8|N9|A|B	H10N9	A/aquatic bird/Gunsan/145/2006
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW848663	MW848663	-	1778	NULL	Spain	2019	Sus scrofa	Lungs	A3|D1|A4|H1|A8|N2|A|A	H1N2	A/swine/Spain/25001-2/2019
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW857526	MW857526	-	1639	NULL	Thailand	2015	Anseriformes sp.	cloacal swab	A5|D1|A12|H11|A6|N7|B|A	H11N7	A/duck/Thailand/CU-16340C/2015
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW875653	MW875653	-	1713	NULL	USA	2020	Arenaria interpres	feces	B10|E1|A11|H4|A11|N9|B|A	H4N9	A/ruddy turnstone/Delaware Bay/235/2020
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW876042	MW876042	-	1735	NULL	USA	2020	Arenaria interpres	feces	B10|E1|A3|H11|A11|N3|B|A	H11N3	A/ruddy turnstone/Delaware Bay/209/2020
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MW876090	MW876090	-	1712	NULL	USA	2020	Arenaria interpres	feces	B10|E1|A11|H12|A11|N1|B|A	H12N1	A/ruddy turnstone/Delaware Bay/218/2020
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MZ565044	MZ565044	-	1695	Jalisco	Mexico	2019	Gallus gallus	cloacal swab	B9|E1|A10|H5|A10|N2|B3|B	H5N2	A/chicken/Jalisco/CPA-06432-19/2019
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MZ565340	MZ565340	-	1695	Queretaro	Mexico	2019	Gallus gallus	tracheal swab	B9|E1|A10|H5|A10|N2|B3|B	H5N2	A/chicken/Queretaro/CPA-03805-19/2019
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MZ565610	MZ565610	-	1770	NULL	Iceland	2012	Larus fuscus	cloacal swab	B4|D1|A12|H2|A8|N7|A|A	H2N7	A/lesser black-backed gull/Iceland/1656/2012
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/MZ945740	MZ945740	-	1777	NULL	Spain	2017	Sus scrofa	nasal swab	A3|D1|A4|H1|A8|N2|B|A	H1N2	A/swine/Spain/45600-2/2017
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg3/MZ945779	MZ945779	-	1777	-	-	-	-	-	-	-	A/swine/Spain/45690-8/2018
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/NC_002017	NC_002017	7278968	1778	Puerto Rico	USA	1934	Homo sapiens	nasal swab	B2|A1|A1|H1|A2|N1|B|A	H1N1	A/Puerto Rico/8/1934
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/NC_007366	NC_007366	-	1762	Tompkins County, NY	USA	2004	Homo sapiens	gender:M; age:16y	B2|C1|A1|H3|A2|N2|B2|A	H3N2	A/New York/392/2004
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/OL370767	OL370767	-	1695	Tasmania, King Island	Australia	2018	Arenaria interpres	pooled cloacal and oropharyngeal swab	A5|D1|A12|H12|A8|N5|A|A	H12N5	A/ruddy turnstone/King Island/13149/2018
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/OL371255	OL371255	-	1692	Victoria	Australia	2014	Anseriformes sp.	pooled fecal swabs	A3|B1|A12|H5|A9|N9|A|A	H5N9	A/wild duck/Victoria/14-0961-1/2014
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/OL371511	OL371511	-	1683	South Australia	Australia	2018	Aves	pooled fecal swabs	A3|B1|A12|H9|A9|N5|A|A	H9N5	A/wild waterbird/South Australia/18-9201854-12/2018
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/OL371655	OL371655	-	1701	Tasmania	Australia	2018	Aves	pooled fecal swabs	A5|D1|A12|H1|A11|N7|A|A	H1N7	A/wild waterbird/Tasmania/18-1081-5/2018
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/OM373270	OM373270	-	1686	Shandong province	China	2020	Anseriformes sp.	-	A5|D1|A12|H10|A8|N8|A|A	H10N8	A/swan/Shandong/W3875/2020
+alignment/AL_IAV_SEG4_H5N1/member/iav-ncbi-refseqs-seg4/OM966127	OM966127	-	1703	NULL	USA	2021	Arenaria interpres	feces	B10|E1|A11|H10|A11|N9|B|A	H10N9	A/Ruddy Turnstone/Delaware/49/2021
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752446_HA	SRR28752446_HA	-	-	-	USA	2024	Blackbird	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752447_HA	SRR28752447_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752448_HA	SRR28752448_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752449_HA	SRR28752449_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752450_HA	SRR28752450_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752451_HA	SRR28752451_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752452_HA	SRR28752452_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752453_HA	SRR28752453_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752454_HA	SRR28752454_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752455_HA	SRR28752455_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752456_HA	SRR28752456_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752457_HA	SRR28752457_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752458_HA	SRR28752458_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752459_HA	SRR28752459_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752460_HA	SRR28752460_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752461_HA	SRR28752461_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752462_HA	SRR28752462_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752463_HA	SRR28752463_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752464_HA	SRR28752464_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752465_HA	SRR28752465_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752466_HA	SRR28752466_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752467_HA	SRR28752467_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752468_HA	SRR28752468_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752469_HA	SRR28752469_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752470_HA	SRR28752470_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752471_HA	SRR28752471_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752472_HA	SRR28752472_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752473_HA	SRR28752473_HA	-	-	-	USA	2024	Cat	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752474_HA	SRR28752474_HA	-	-	-	USA	2024	Cat	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752475_HA	SRR28752475_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752476_HA	SRR28752476_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752477_HA	SRR28752477_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752478_HA	SRR28752478_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752479_HA	SRR28752479_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752480_HA	SRR28752480_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752481_HA	SRR28752481_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752482_HA	SRR28752482_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752483_HA	SRR28752483_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752484_HA	SRR28752484_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752485_HA	SRR28752485_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752486_HA	SRR28752486_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752487_HA	SRR28752487_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752488_HA	SRR28752488_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752489_HA	SRR28752489_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752490_HA	SRR28752490_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752491_HA	SRR28752491_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752492_HA	SRR28752492_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752493_HA	SRR28752493_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752494_HA	SRR28752494_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752495_HA	SRR28752495_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752496_HA	SRR28752496_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752497_HA	SRR28752497_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752498_HA	SRR28752498_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752499_HA	SRR28752499_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752500_HA	SRR28752500_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752501_HA	SRR28752501_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752502_HA	SRR28752502_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752503_HA	SRR28752503_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752504_HA	SRR28752504_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752505_HA	SRR28752505_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752506_HA	SRR28752506_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752507_HA	SRR28752507_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752508_HA	SRR28752508_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752509_HA	SRR28752509_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752510_HA	SRR28752510_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752511_HA	SRR28752511_HA	-	-	-	USA	2024	Cat	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752512_HA	SRR28752512_HA	-	-	-	USA	2024	Cat	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752513_HA	SRR28752513_HA	-	-	-	USA	2024	Cat	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752514_HA	SRR28752514_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752515_HA	SRR28752515_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752516_HA	SRR28752516_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752517_HA	SRR28752517_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752518_HA	SRR28752518_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752519_HA	SRR28752519_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752520_HA	SRR28752520_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752521_HA	SRR28752521_HA	-	-	-	USA	2024	Grackle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752522_HA	SRR28752522_HA	-	-	-	USA	2024	Skunk	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752523_HA	SRR28752523_HA	-	-	-	USA	2024	Cat	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752524_HA	SRR28752524_HA	-	-	-	USA	2024	Cat	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752525_HA	SRR28752525_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752526_HA	SRR28752526_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752527_HA	SRR28752527_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752528_HA	SRR28752528_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752529_HA	SRR28752529_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752530_HA	SRR28752530_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752531_HA	SRR28752531_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752532_HA	SRR28752532_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752533_HA	SRR28752533_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752534_HA	SRR28752534_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752535_HA	SRR28752535_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752536_HA	SRR28752536_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752537_HA	SRR28752537_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752538_HA	SRR28752538_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752539_HA	SRR28752539_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752540_HA	SRR28752540_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752541_HA	SRR28752541_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752542_HA	SRR28752542_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752543_HA	SRR28752543_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752544_HA	SRR28752544_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752545_HA	SRR28752545_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752546_HA	SRR28752546_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752547_HA	SRR28752547_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752548_HA	SRR28752548_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752549_HA	SRR28752549_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752550_HA	SRR28752550_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752551_HA	SRR28752551_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752552_HA	SRR28752552_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752553_HA	SRR28752553_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752554_HA	SRR28752554_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752555_HA	SRR28752555_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752556_HA	SRR28752556_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752557_HA	SRR28752557_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752558_HA	SRR28752558_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752559_HA	SRR28752559_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752560_HA	SRR28752560_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752561_HA	SRR28752561_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752562_HA	SRR28752562_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752563_HA	SRR28752563_HA	-	-	-	USA	2024	Blackbird	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752564_HA	SRR28752564_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752565_HA	SRR28752565_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752566_HA	SRR28752566_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752567_HA	SRR28752567_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752568_HA	SRR28752568_HA	-	-	-	USA	2024	Raccoon	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752569_HA	SRR28752569_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752570_HA	SRR28752570_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752571_HA	SRR28752571_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752572_HA	SRR28752572_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752573_HA	SRR28752573_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752574_HA	SRR28752574_HA	-	-	-	USA	2024	Grackle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752575_HA	SRR28752575_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752576_HA	SRR28752576_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752577_HA	SRR28752577_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752578_HA	SRR28752578_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752579_HA	SRR28752579_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752580_HA	SRR28752580_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752581_HA	SRR28752581_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752582_HA	SRR28752582_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752583_HA	SRR28752583_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752584_HA	SRR28752584_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752585_HA	SRR28752585_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752586_HA	SRR28752586_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752587_HA	SRR28752587_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752588_HA	SRR28752588_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752589_HA	SRR28752589_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752590_HA	SRR28752590_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752591_HA	SRR28752591_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752592_HA	SRR28752592_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752593_HA	SRR28752593_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752594_HA	SRR28752594_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752595_HA	SRR28752595_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752596_HA	SRR28752596_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752597_HA	SRR28752597_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752598_HA	SRR28752598_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752599_HA	SRR28752599_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752600_HA	SRR28752600_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752601_HA	SRR28752601_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752602_HA	SRR28752602_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752603_HA	SRR28752603_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752604_HA	SRR28752604_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752605_HA	SRR28752605_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752606_HA	SRR28752606_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752607_HA	SRR28752607_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752608_HA	SRR28752608_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752609_HA	SRR28752609_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752610_HA	SRR28752610_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752611_HA	SRR28752611_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752612_HA	SRR28752612_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752613_HA	SRR28752613_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752614_HA	SRR28752614_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752615_HA	SRR28752615_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752616_HA	SRR28752616_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752617_HA	SRR28752617_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752618_HA	SRR28752618_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752619_HA	SRR28752619_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752620_HA	SRR28752620_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752621_HA	SRR28752621_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752622_HA	SRR28752622_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752623_HA	SRR28752623_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752624_HA	SRR28752624_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752625_HA	SRR28752625_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752626_HA	SRR28752626_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752627_HA	SRR28752627_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752628_HA	SRR28752628_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752629_HA	SRR28752629_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752630_HA	SRR28752630_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752631_HA	SRR28752631_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752632_HA	SRR28752632_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752633_HA	SRR28752633_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752634_HA	SRR28752634_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752635_HA	SRR28752635_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752636_HA	SRR28752636_HA	-	-	-	USA	2024	PEFA	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752637_HA	SRR28752637_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752638_HA	SRR28752638_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752639_HA	SRR28752639_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752640_HA	SRR28752640_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752641_HA	SRR28752641_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752642_HA	SRR28752642_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752643_HA	SRR28752643_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752644_HA	SRR28752644_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752645_HA	SRR28752645_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752646_HA	SRR28752646_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752647_HA	SRR28752647_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752648_HA	SRR28752648_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752649_HA	SRR28752649_HA	-	-	-	USA	2024	Grackle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752650_HA	SRR28752650_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752651_HA	SRR28752651_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752652_HA	SRR28752652_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752653_HA	SRR28752653_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752654_HA	SRR28752654_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752655_HA	SRR28752655_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752656_HA	SRR28752656_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752657_HA	SRR28752657_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752658_HA	SRR28752658_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752659_HA	SRR28752659_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752660_HA	SRR28752660_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752661_HA	SRR28752661_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752662_HA	SRR28752662_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752663_HA	SRR28752663_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752664_HA	SRR28752664_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752665_HA	SRR28752665_HA	-	-	-	USA	2024	Cat	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752666_HA	SRR28752666_HA	-	-	-	USA	2024	Cat	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752667_HA	SRR28752667_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752668_HA	SRR28752668_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752669_HA	SRR28752669_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752670_HA	SRR28752670_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752671_HA	SRR28752671_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752672_HA	SRR28752672_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752673_HA	SRR28752673_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752674_HA	SRR28752674_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752675_HA	SRR28752675_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752676_HA	SRR28752676_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752677_HA	SRR28752677_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752678_HA	SRR28752678_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752679_HA	SRR28752679_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752680_HA	SRR28752680_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752681_HA	SRR28752681_HA	-	-	-	USA	2024	Cattle	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752682_HA	SRR28752682_HA	-	-	-	USA	2024	Chicken	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752683_HA	SRR28752683_HA	-	-	-	USA	2024	CAGO	-	-	H5N1	-
+alignment/AL_IAV_SEG4_H5N1/member/iav-andersen-h5n1/SRR28752684_HA	SRR28752684_HA	-	-	-	USA	2023	Goose	-	-	H5N1	-

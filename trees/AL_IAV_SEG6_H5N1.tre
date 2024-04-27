@@ -1,0 +1,341 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=239;
+	taxlabels
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752446_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752447_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752448_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752449_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752450_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752451_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752452_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752453_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752454_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752455_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752456_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752457_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752458_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752459_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752460_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752461_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752462_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752463_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752464_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752465_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752466_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752467_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752468_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752469_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752470_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752471_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752472_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752473_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752474_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752475_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752476_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752477_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752478_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752479_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752480_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752481_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752482_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752483_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752484_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752485_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752486_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752487_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752488_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752489_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752490_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752491_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752492_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752493_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752494_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752495_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752496_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752497_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752498_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752499_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752500_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752501_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752502_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752503_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752504_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752505_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752506_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752507_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752508_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752509_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752510_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752511_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752512_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752513_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752514_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752515_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752516_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752517_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752518_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752519_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752520_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752521_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752522_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752523_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752524_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752525_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752526_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752527_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752528_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752529_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752530_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752531_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752532_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752533_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752534_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752535_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752536_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752537_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752538_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752539_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752540_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752541_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752542_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752543_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752544_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752545_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752546_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752547_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752548_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752549_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752550_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752551_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752552_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752553_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752554_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752555_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752556_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752557_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752558_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752559_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752560_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752561_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752562_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752563_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752564_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752565_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752566_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752567_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752568_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752569_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752570_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752571_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752572_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752573_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752574_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752575_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752576_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752577_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752578_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752579_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752580_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752581_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752582_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752583_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752584_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752585_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752586_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752587_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752588_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752589_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752590_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752591_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752592_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752593_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752594_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752595_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752596_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752597_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752598_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752599_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752600_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752601_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752602_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752603_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752604_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752605_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752606_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752607_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752608_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752609_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752610_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752611_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752612_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752613_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752614_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752615_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752616_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752617_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752618_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752619_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752620_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752621_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752622_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752623_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752624_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752625_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752626_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752627_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752628_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752629_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752630_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752631_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752632_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752633_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752634_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752635_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752636_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752637_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752638_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752639_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752640_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752641_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752642_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752643_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752644_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752645_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752646_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752647_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752648_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752649_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752650_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752651_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752652_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752653_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752654_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752655_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752656_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752657_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752658_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752659_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752660_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752661_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752662_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752663_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752664_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752665_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752666_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752667_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752668_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752669_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752670_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752671_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752672_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752673_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752674_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752675_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752676_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752677_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752678_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752679_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752680_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752681_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752682_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752683_NA'
+	'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752684_NA'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752565_NA':7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752665_NA':7.44E-4,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752562_NA':7.44E-4,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752621_NA':7.44E-4)[&label=5]:1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752546_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752529_NA':7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752557_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752566_NA':1.0E-6)[&label=93]:7.44E-4)[&label=3]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752549_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752662_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752620_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752446_NA':1.0E-6,(((((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752581_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752525_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752548_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752494_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752551_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752656_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752536_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752666_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752538_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752533_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752474_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752544_NA':7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752637_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752636_NA':0.003758)[&label=34]:0.001492)[&label=8]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752659_NA':1.0E-6)[&label=4]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752647_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752463_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752487_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752556_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752558_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752531_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752547_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752545_NA':1.0E-6)[&label=0]:1.0E-6,(((((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752475_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752559_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752652_NA':1.0E-6)[&label=0]:1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752582_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752567_NA':1.0E-6)[&label=1]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752509_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752580_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752653_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752619_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752561_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752458_NA':7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752468_NA':0.001494,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752457_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752532_NA':1.0E-6)[&label=56]:1.0E-6)[&label=80]:7.45E-4)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752676_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752635_NA':1.0E-6)[&label=0]:1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752541_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752526_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752578_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752583_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752534_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752677_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752675_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752617_NA':1.0E-6)[&label=1]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752657_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752530_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752579_NA':1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752563_NA':7.44E-4,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752447_NA':7.45E-4,((((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752575_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752602_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752593_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752452_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752645_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752490_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752646_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752461_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752611_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752585_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752478_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752460_NA':1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752599_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752516_NA':1.0E-6)[&label=7]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752679_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752631_NA':1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752674_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752514_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752456_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752577_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752576_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752469_NA':1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752513_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752615_NA':1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752517_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752614_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752634_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752506_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752644_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752571_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752627_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752515_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752680_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752607_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752592_NA':1.0E-6)[&label=0]:1.0E-6,((((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752449_NA':7.44E-4,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752596_NA':7.44E-4)[&label=1]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752633_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752590_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752512_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752510_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752492_NA':1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752453_NA':1.0E-6,(((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752668_NA':1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752606_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752595_NA':1.0E-6)[&label=31]:1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752520_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752660_NA':1.0E-6)[&label=11]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752671_NA':1.0E-6)[&label=6]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752682_NA':1.0E-6)[&label=6]:1.0E-6)[&label=87]:7.44E-4,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752523_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752524_NA':1.0E-6)[&label=12]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752521_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752574_NA':1.0E-6)[&label=19]:1.0E-6)[&label=87]:7.44E-4,(((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752450_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752649_NA':1.0E-6)[&label=17]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752451_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752622_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752448_NA':1.0E-6)[&label=10]:1.0E-6)[&label=6]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752570_NA':1.0E-6)[&label=1]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752616_NA':1.0E-6)[&label=20]:1.0E-6)[&label=74]:7.44E-4)[&label=6]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752511_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752466_NA':1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752604_NA':7.44E-4,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752623_NA':7.44E-4)[&label=2]:1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752522_NA':0.001494,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752684_NA':7.46E-4)[&label=93]:7.49E-4,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752683_NA':7.48E-4)[&label=55]:7.46E-4,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752500_NA':7.43E-4,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752486_NA':7.44E-4)[&label=17]:1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752480_NA':1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752471_NA':1.0E-6,(((((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752489_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752507_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752484_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752639_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752638_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752497_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752667_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752472_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752465_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752553_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752505_NA':1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752641_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752508_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752502_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752499_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752501_NA':1.0E-6)[&label=26]:1.0E-6)[&label=89]:7.44E-4)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752640_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752485_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752481_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752612_NA':1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752467_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752642_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752482_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752488_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752470_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752483_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752503_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752504_NA':1.0E-6)[&label=6]:1.0E-6)[&label=83]:7.44E-4)[&label=4]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752672_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752568_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752493_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752459_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752605_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752603_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752610_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752597_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752601_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752454_NA':1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752495_NA':7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752626_NA':7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752678_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752670_NA':1.0E-6)[&label=48]:1.0E-6)[&label=75]:7.44E-4)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752455_NA':7.44E-4,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752587_NA':7.44E-4)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752681_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752600_NA':7.44E-4,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752648_NA':0.00149)[&label=4]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752594_NA':7.44E-4,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752573_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752569_NA':1.0E-6)[&label=27]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752572_NA':1.0E-6)[&label=92]:7.44E-4)[&label=6]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=5]:1.0E-6)[&label=5]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752496_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752491_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752629_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752630_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752669_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752586_NA':1.0E-6,(((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752555_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752632_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752625_NA':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752608_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752589_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752628_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752673_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752464_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752598_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752554_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752519_NA':1.0E-6,((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752462_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752591_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752535_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752479_NA':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752609_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752518_NA':7.45E-4,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752613_NA':7.44E-4)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752588_NA':7.45E-4)[&label=5]:7.44E-4)[&label=5]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752560_NA':7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752537_NA':7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752542_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752543_NA':1.0E-6)[&label=75]:1.0E-6)[&label=76]:7.44E-4)[&label=4]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752473_NA':1.0E-6,(((((((('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752650_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752584_NA':1.0E-6)[&label=21]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752658_NA':1.0E-6)[&label=6]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752663_NA':1.0E-6)[&label=95]:7.44E-4,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752655_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752651_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752661_NA':1.0E-6)[&label=4]:1.0E-6)[&label=9]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752654_NA':1.0E-6)[&label=35]:1.0E-6)[&label=19]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752664_NA':0.001491)[&label=86]:0.001491,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752643_NA':7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752476_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752477_NA':1.0E-6)[&label=95]:1.0E-6)[&label=29]:7.44E-4)[&label=0]:1.0E-6,(('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752618_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752539_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752552_NA':1.0E-6)[&label=42]:1.0E-6)[&label=89]:7.44E-4,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752528_NA':1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752498_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752527_NA':1.0E-6)[&label=37]:1.0E-6)[&label=87]:7.45E-4)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752550_NA':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752540_NA':1.0E-6,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752624_NA':1.0E-6)[&label=0]:1.0E-6)[&label=5]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=1]:1.0E-6)[&label=79]:7.44E-4,'alignment/AL_IAV_SEG6_H5N1/member/iav-andersen-h5n1/SRR28752564_NA':1.0E-6);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=545;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
