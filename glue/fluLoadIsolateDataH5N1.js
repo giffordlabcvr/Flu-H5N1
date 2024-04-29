@@ -3,7 +3,7 @@ var segment_genes = [ 'HA', 'MP', 'NA', 'NP', 'NS', 'PA', 'PB1', 'PB2' ];
 
 var strainObjs;
 glue.inMode("module/tabularUtility", function() {
-	strainObjs = glue.tableToObjects(glue.command(["load-tabular", "tabular/SraRunTable.tsv"]));
+	strainObjs = glue.tableToObjects(glue.command(["load-tabular", "tabular/iav-andersen-h5n1/SraRunTable.tsv"]));
 });
 //glue.logInfo("strainObjs", strainObjs);
 
