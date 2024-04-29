@@ -20,11 +20,32 @@ project flu
     feature-location PB1 add segment 1 2274
     exit
 
+  reference REF_S3_IAV_H5N1_MG668930
+    add feature-location S3_whole_genome
+    add feature-location PA
+    add feature-location PA-X
+
+    feature-location S3_whole_genome add segment 1 2151
+    feature-location PA add segment 1 2151
+    feature-location PA-X 
+      add segment 1 570 --spliceIndex 1
+      add segment 572 760 --spliceIndex 2
+      exit
+
+    exit
+
   reference REF_S4_IAV_H5N1_MG668931
     add feature-location S4_whole_genome
     add feature-location HA
     feature-location S4_whole_genome add segment 1 1707
     feature-location HA add segment 1 1707
+    exit
+
+  reference REF_S5_IAV_H5N1_MG668932
+    add feature-location S5_whole_genome
+    add feature-location NP
+    feature-location S5_whole_genome add segment 1 1497
+    feature-location NP add segment 1 1497
     exit
 
   reference REF_S6_IAV_H5N1_MG668933
@@ -34,11 +55,37 @@ project flu
     feature-location NA add segment 1 1350
     exit
 
+  reference REF_S7_IAV_H5N1_MG668934
+    add feature-location S7_whole_genome
+    add feature-location M1
+    add feature-location M2
+    feature-location S7_whole_genome add segment 1 1002
+    feature-location M1 add segment 1 759
+    feature-location M2 
+      add segment 1 26 --spliceIndex 1
+      add segment 715 982 --spliceIndex 2
+      exit
+    exit
+
+  reference REF_S8_IAV_H5N1_MG668935
+    add feature-location S7_whole_genome
+    add feature-location NS1
+    add feature-location NEP
+    feature-location S7_whole_genome add segment 1 849
+    feature-location NEP 
+      add segment 1 30 --spliceIndex 1
+      add segment 488 823 --spliceIndex 2
+      exit
+    feature-location NS1 add segment 1 678
+    exit
+
+
+
   #  Create all subtype outgrouped alignments
-  #run file glue/createAllSubtypeH5N1Alignments.glue  
+  run file glue/createAllSubtypeH5N1Alignments.glue  
 
   #  Create closest subtype outgroup alignments
-  run file glue/createClosestSubtypeH5N1Alignments.glue  
+  #run file glue/createClosestSubtypeH5N1Alignments.glue  
 
   #  Build phylogenies
   run file glue/buildH5N1phylogenies.glue  

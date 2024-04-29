@@ -1,6 +1,11 @@
 module fluRaxmlPhylogenyGenerator
-  generate nucleotide phylogeny AL_IAV_SEG1_H5N1 -a -o AL_IAV_SEG1_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
-  generate nucleotide phylogeny AL_IAV_SEG2_H5N1 -a -o AL_IAV_SEG2_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
-  generate nucleotide phylogeny AL_IAV_SEG4_H5N1 -a -o AL_IAV_SEG4_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
-  generate nucleotide phylogeny AL_IAV_SEG6_H5N1 -a -o AL_IAV_SEG6_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
+  #generate nucleotide phylogeny AL_IAV_SEG1_H5N1 -a -o AL_IAV_SEG1_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
+  #generate nucleotide phylogeny AL_IAV_SEG2_H5N1 -a -o AL_IAV_SEG2_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
+  generate nucleotide phylogeny AL_IAV_SEG3_H5N1 -a -o AL_IAV_SEG3_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
+  #generate nucleotide phylogeny AL_IAV_SEG4_H5N1 -a -o AL_IAV_SEG4_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
+  generate nucleotide phylogeny AL_IAV_SEG5_H5N1 -a -o AL_IAV_SEG5_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
+  #generate nucleotide phylogeny AL_IAV_SEG6_H5N1 -a -o AL_IAV_SEG6_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
+  generate nucleotide phylogeny AL_IAV_SEG7_H5N1 -a -o AL_IAV_SEG7_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
+  generate nucleotide phylogeny AL_IAV_SEG8_H5N1 -a -o AL_IAV_SEG8_H5N1_plus_outgroups.tre NEWICK_BOOTSTRAPS
   exit
+

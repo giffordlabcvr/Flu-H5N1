@@ -1,4 +1,5 @@
   # All IAV alignments
+  
   create alignment AL_IAV_SEG1_H5N1 -r REF_S1_IAV_H5N1_MG668928
   alignment AL_IAV_SEG1_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_PB2%'"
   alignment AL_IAV_SEG1_H5N1 add member -w "name = 'IAV' and gb_segment = '1'"
@@ -9,12 +10,32 @@
   alignment AL_IAV_SEG2_H5N1 add member -w "name = 'IAV' and gb_segment = '2'"
   compute alignment AL_IAV_SEG2_H5N1 iavCompoundAlignerS2
 
+  create alignment AL_IAV_SEG3_H5N1 -r REF_S3_IAV_H5N1_MG668930
+  alignment AL_IAV_SEG3_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_PA%'"
+  alignment AL_IAV_SEG3_H5N1 add member -w "name = 'IAV' and gb_segment = '3'"
+  compute alignment AL_IAV_SEG3_H5N1 iavCompoundAlignerS3
+
   create alignment AL_IAV_SEG4_H5N1 -r REF_S4_IAV_H5N1_MG668931
   alignment AL_IAV_SEG4_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_HA%'"
   alignment AL_IAV_SEG4_H5N1 add member -w "name = 'IAV' and gb_segment = '4'"
   compute alignment AL_IAV_SEG4_H5N1 iavCompoundAlignerS4
 
+  create alignment AL_IAV_SEG5_H5N1 -r REF_S5_IAV_H5N1_MG668932
+  alignment AL_IAV_SEG5_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_NP%'"
+  alignment AL_IAV_SEG5_H5N1 add member -w "name = 'IAV' and gb_segment = '5'"
+  compute alignment AL_IAV_SEG5_H5N1 iavCompoundAlignerS5
+
   create alignment AL_IAV_SEG6_H5N1 -r REF_S6_IAV_H5N1_MG668933
   alignment AL_IAV_SEG6_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_NA%'"
   alignment AL_IAV_SEG6_H5N1 add member -w "name = 'IAV' and gb_segment = '6'"
   compute alignment AL_IAV_SEG6_H5N1 iavCompoundAlignerS6
+
+  create alignment AL_IAV_SEG7_H5N1 -r REF_S7_IAV_H5N1_MG668934
+  alignment AL_IAV_SEG7_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_MP%'"
+  alignment AL_IAV_SEG7_H5N1 add member -w "name = 'IAV' and gb_segment = '7'"
+  compute alignment AL_IAV_SEG7_H5N1 iavCompoundAlignerS7
+
+  create alignment AL_IAV_SEG8_H5N1 -r REF_S8_IAV_H5N1_MG668935
+  alignment AL_IAV_SEG8_H5N1 add member -w "source.name = 'iav-andersen-h5n1' and sequenceID like '%_NS%'"
+  alignment AL_IAV_SEG8_H5N1 add member -w "name = 'IAV' and gb_segment = '8'"
+  compute alignment AL_IAV_SEG8_H5N1 iavCompoundAlignerS8
