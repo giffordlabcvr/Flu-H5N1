@@ -82,10 +82,10 @@ project flu
 
 
   #  Create all subtype outgrouped alignments
-  run file glue/createAllSubtypeH5N1Alignments.glue  
+  #run file glue/createAllSubtypeH5N1Alignments.glue  
 
   #  Create closest subtype outgroup alignments
-  #run file glue/createClosestSubtypeH5N1Alignments.glue  
+  run file glue/createClosestSubtypeH5N1Alignments.glue  
 
   #  Build phylogenies
   run file glue/buildH5N1phylogenies.glue  
