@@ -1,0 +1,2 @@
+  # This 'GenbankXmlPopulator' module is the preferred importer for all GenBank influenza sequences
+  create module -f modules/build/core/fluGenbankXmlPopulator.xml
